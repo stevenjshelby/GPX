@@ -1,0 +1,9 @@
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\bin\Debug\GPXLogInterface.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\bin\Debug\GPXLogInterface.pdb
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\GPXLogInterface.GPXLogInterface.resources
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\GPXLogInterface.Properties.Resources.resources
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\GPXLogInterface.exe
+C:\Users\Steven\documents\visual studio 2010\Projects\GPXLogInterface\GPXLogInterface\obj\x86\Debug\GPXLogInterface.pdb
